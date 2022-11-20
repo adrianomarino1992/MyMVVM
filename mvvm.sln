@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mvvm", "mvvm\mvvm.csproj", "{07724EF7-BE4A-4325-99FA-9F9CA033FDD5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMVVM", "MyMVVM\MyMVVM.csproj", "{32378373-FAD4-4741-99B5-CBFF240F0632}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{92F0A80D-87D9-4549-8419-CF96C89C8657}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07724EF7-BE4A-4325-99FA-9F9CA033FDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07724EF7-BE4A-4325-99FA-9F9CA033FDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07724EF7-BE4A-4325-99FA-9F9CA033FDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07724EF7-BE4A-4325-99FA-9F9CA033FDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32378373-FAD4-4741-99B5-CBFF240F0632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32378373-FAD4-4741-99B5-CBFF240F0632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32378373-FAD4-4741-99B5-CBFF240F0632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32378373-FAD4-4741-99B5-CBFF240F0632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F0849B-8F97-4507-8DE8-C8AA2B3DEA06}
+	EndGlobalSection
+EndGlobal
